@@ -1,4 +1,4 @@
-package maven-package(maven-property-groupId);
+package package_maven_groupid;
 
 /**
  * Hello world!
